@@ -77,7 +77,7 @@ index.htmlに足りない記述を埋めてフィードバック入力欄とセ�
     
 ```html
 <form action="/submit" method="POST">
-  <label for="feedback">フィードバック:</label>
+  <label for="feedback">フィードバック:</label>s
   <div>
   <textarea id="feedback" name="feedback" rows="5" placeholder="フィードバックをここに入力してください"></textarea>
   </div>
